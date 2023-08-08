@@ -24,5 +24,5 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 PRODUCT_DEVICE := sky
 PRODUCT_NAME := twrp_sky
 PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := 22101317C
+PRODUCT_MODEL := 23076RA4BC
 PRODUCT_MANUFACTURER := xiaomi
