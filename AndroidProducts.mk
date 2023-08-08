@@ -9,4 +9,4 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_sky.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_sunstone-eng
+    twrp_sky-eng
